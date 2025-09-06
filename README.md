@@ -1,7 +1,6 @@
 <h1 align="center">Oi 👋, Eu sou Edson!</h1>
 <h3 align="center">Editor de imagens de qualidade duvidosa... ou não. Entusiasta do Front-End.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
